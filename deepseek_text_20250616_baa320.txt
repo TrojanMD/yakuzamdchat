@@ -1,0 +1,13 @@
+/private_chat
+│── index.html (your login page)
+│── auth.php
+│── chat.php
+│── config.php
+│── logout.php
+│── register.php
+│── send_message.php
+│── get_messages.php
+│── admin_actions.php
+│── admin_view_chats.php
+│── forgot_password.php
+│── style.css (if you want to separate CSS)
